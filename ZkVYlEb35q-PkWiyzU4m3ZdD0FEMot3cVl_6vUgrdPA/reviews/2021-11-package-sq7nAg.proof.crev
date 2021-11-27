@@ -1,0 +1,72 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-27T13:05:41.626350891-06:00"
+from:
+  id-type: crev
+  id: ZkVYlEb35q-PkWiyzU4m3ZdD0FEMot3cVl_6vUgrdPA
+  url: "https://github.com/ReactorScram/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: thiserror-impl
+  version: 1.0.30
+  revision: 672e9525bbc2e5682c380d36974f34716b963591
+  digest: XRpLEHYF9HySxdVTF7wUXAQ-jJMNfrGy41VM_9DRBrg
+review:
+  thoroughness: none
+  understanding: none
+  rating: positive
+comment: |-
+  Just flipped through it to test out crev. It doesn't seem to perform any I/O or use `unsafe`.
+----- SIGN CREV PROOF -----
+SrTME4zlexOxIXlJ-GUe4nBAComrmjdOmYAVrCC6CozrW8jBWVizF1t738LFzKNuoFkcLgm5KsumDwLhpBlaDw
+----- END CREV PROOF -----
+
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-27T13:09:05.187715735-06:00"
+from:
+  id-type: crev
+  id: ZkVYlEb35q-PkWiyzU4m3ZdD0FEMot3cVl_6vUgrdPA
+  url: "https://github.com/ReactorScram/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: thiserror-impl
+  version: 1.0.30
+  revision: 672e9525bbc2e5682c380d36974f34716b963591
+  digest: XRpLEHYF9HySxdVTF7wUXAQ-jJMNfrGy41VM_9DRBrg
+review:
+  thoroughness: none
+  understanding: none
+  rating: positive
+comment: |-
+  Just flipped through it to test out crev. It doesn't seem to perform any I/O or use `unsafe`.
+----- SIGN CREV PROOF -----
+1NWuapx0Pm2pGPfdK1lfXzhCbf4pibSQb6nxBpFckorXvRH9Ym38thINH8OPrQwezcTBZxgv4HIzYtDRKyijAA
+----- END CREV PROOF -----
+
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-27T13:09:25.192724889-06:00"
+from:
+  id-type: crev
+  id: ZkVYlEb35q-PkWiyzU4m3ZdD0FEMot3cVl_6vUgrdPA
+  url: "https://github.com/ReactorScram/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: thiserror-impl
+  version: 1.0.30
+  revision: 672e9525bbc2e5682c380d36974f34716b963591
+  digest: XRpLEHYF9HySxdVTF7wUXAQ-jJMNfrGy41VM_9DRBrg
+review:
+  thoroughness: none
+  understanding: none
+  rating: positive
+comment: |-
+  Just flipped through it to test out crev. It doesn't seem to perform any I/O or use `unsafe`.
+----- SIGN CREV PROOF -----
+-uxRyp8-a6EmNI1fdNlqgwOeA0J1XSekLl0c1wz0x0ilCiykegFAmfThbtVjsX-9u-tBYUp-9mz7EUsBJgOHAA
+----- END CREV PROOF -----
+
