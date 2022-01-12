@@ -1,0 +1,25 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-11T20:23:02.044812899-06:00"
+from:
+  id-type: crev
+  id: gyqK_93Og0v0I0FISMxeUdtyheTCXUxO14OFIIIAI5Q
+package:
+  source: "https://crates.io"
+  name: rmp
+  version: 0.8.10
+  revision: 9d69796ff4a013d91c79b1af4ffbfe885b7d96cb
+  digest: wmTmXW9C7V27au7Xa4PWBOhX2-XoPn6yGVKH5CiTdgw
+review:
+  thoroughness: low
+  understanding: medium
+  rating: strong
+comment: |-
+  Read every file in a text editor looking for obvious suspicious stuff.
+  No `unsafe`, no out-of-place I/O. Msgpack is basically a fancy TLV format,
+  so it's not complicated.
+----- SIGN CREV PROOF -----
+VnfIAOXCCA0y_jySFVq2FRgWoB1QrOMxnv_CJ6KzlyeQRc1qRmr-K462w4i5iIQq9xUofVjEfQ_uCvZCfVBDDQ
+----- END CREV PROOF -----
+
